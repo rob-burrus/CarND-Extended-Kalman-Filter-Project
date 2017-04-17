@@ -3,6 +3,8 @@ Self-Driving Car Engineer Nanodegree Program
 
 ---
 ## Results
+Output txt files found in the /data folder
+Visualization produced by juptyer notebook found [here](https://github.com/udacity/CarND-Mercedes-SF-Utilities)
 ![Image of results](output.png)
 
 
@@ -20,11 +22,6 @@ Self-Driving Car Engineer Nanodegree Program
   * Mac: same deal as make - [install Xcode command line tools]((https://developer.apple.com/xcode/features/)
   * Windows: recommend using [MinGW](http://www.mingw.org/)
 
-## Build Instructions
-
-1. Compile: `cmake .. && make` 
-2. Run it: `./ExtendedKF path/to/input.txt path/to/output.txt`. You can find
-   some sample inputs in 'data/'.
    
 ## Generating Additional Data
 
