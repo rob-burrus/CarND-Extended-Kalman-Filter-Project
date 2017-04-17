@@ -4,6 +4,7 @@ Self-Driving Car Engineer Nanodegree Program
 ---
 ## Results
 Output txt files found in the /data folder
+
 Visualization produced by juptyer notebook found [here](https://github.com/udacity/CarND-Mercedes-SF-Utilities)
 ![Image of results](output.png)
 
