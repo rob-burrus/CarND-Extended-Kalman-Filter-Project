@@ -4,7 +4,7 @@ Self-Driving Car Engineer Nanodegree Program
 ---
 ## Results
 ![Image of results]
-(CarND-Extended-Kalman-Filter-Project/data/output.png)
+(output.png)
 
 
 
