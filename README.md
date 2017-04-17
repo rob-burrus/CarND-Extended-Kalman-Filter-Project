@@ -3,8 +3,7 @@ Self-Driving Car Engineer Nanodegree Program
 
 ---
 ## Results
-![Image of results]
-(output.png)
+![Image of results](output.png)
 
 
 
